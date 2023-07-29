@@ -5,8 +5,11 @@
 - 😄 Pronomes: ele/dele
 - ⚡ fun fact: tenho 15 anos e gosto de osu, undertale
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaeltsf&show_icons=true&title_color=d77d44&bg_color=3e665d&icon_color=92d4d9&text_color=f7f8cc)
-
+  <div>
+ <
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=rafaeltsf&show_icons=true&title_color=d77d44&bg_color=3e665d&icon_color=92d4d9&text_color=f7f8cc">
+ <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeltsf&layout=compact&title_color=d77d44&bg_color=3e665d&icon_color=92d4d9&text_color=f7f8cc">
+</div>
 
   <div> 
   <a href="https://steamcommunity.com/id/rffll/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
