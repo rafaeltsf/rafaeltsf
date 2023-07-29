@@ -6,7 +6,6 @@
 - ⚡ fun fact: tenho 15 anos e gosto de osu, undertale
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaeltsf&show_icons=true&title_color=d77d44&bg_color=3e665d&icon_color=92d4d9&text_color=f7f8cc)
-&theme=chartreuse-dark)
 
 
   <div> 
