@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou fazendo o 9º ano do colegio
 - 🌱 estudando Introdução a programação na EBAC
 - 😄 Pronomes: ele/dele
-- ⚡ fun fact: tenho 15 anos e gosto de osu, undertale
+- ⚡ hobbies: video games e tecnologia
 
   <div>
  <
