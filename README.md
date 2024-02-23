@@ -1,9 +1,8 @@
-## Oii sou o Rafael, sou apaixonado por tecnologia e estou me introduzindo na programação!
+## Olá! Eu sou Rafael, um entusiasta da programação que está sempre aprendendo e explorando novas tecnologias. Este é o meu cantinho no GitHub, onde compartilho meus projetos e estudos.
+Se você é um iniciante como eu e quer colaborar ou tem sugestões de melhorias nos meus projetos, ficarei muito feliz em receber sua contribuição! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
 - 🔭 Atualmente estou fazendo o 1º ano do colegial
 - 🌱 estudando css e html
-- 😄 Pronomes: ele/dele
-- ⚡ hobbies: video games e tecnologia
 
   <div>
  <
