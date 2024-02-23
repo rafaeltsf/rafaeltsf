@@ -1,7 +1,7 @@
 ## Oii sou o Rafael, sou apaixonado por tecnologia e estou me introduzindo na programação!
 
-- 🔭 Atualmente estou fazendo o 9º ano do colegio
-- 🌱 estudando Introdução a programação na EBAC
+- 🔭 Atualmente estou fazendo o 1º ano do colegial
+- 🌱 estudando css e html
 - 😄 Pronomes: ele/dele
 - ⚡ hobbies: video games e tecnologia
 
