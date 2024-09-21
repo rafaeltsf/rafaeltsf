@@ -1,8 +1,5 @@
-## Olá! Eu sou Rafael, um entusiasta da programação que está sempre aprendendo e explorando novas tecnologias. Este é o meu cantinho no GitHub, onde compartilho meus projetos e estudos.
-Se você é um iniciante como eu e quer colaborar ou tem sugestões de melhorias nos meus projetos, ficarei muito feliz em receber sua contribuição!
-
-- 🔭 Atualmente estou fazendo o 1º ano do colegial
-- 🌱 estudando css e html
+Atualmente estou fazendo o 1º ano do colegial
+  
 
   <div>
  <
